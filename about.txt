@@ -1,0 +1,6 @@
+Project Name: Git Collaboration
+
+Technology: Git and GitHub
+
+This project demonstrates version control
+and teamwork using GitHub.
