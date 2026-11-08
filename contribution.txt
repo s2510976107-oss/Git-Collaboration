@@ -1,0 +1,7 @@
+Student B Contribution
+
+Name: Abdullah
+Role: Collaborator
+
+I joined the shared repository
+and contributed to the project.
