@@ -3,4 +3,4 @@ Project Name: Git Collaboration
 Technology: Git and GitHub
 
 This project demonstrates version control
-and teamwork using GitHub.
+and teamwork using GitHub.Student B verified the shared repository and completed the collaboration process.
